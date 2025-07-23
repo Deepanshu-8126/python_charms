@@ -20,7 +20,11 @@
 #     print(a,"x",i,"=",a*i)
 
 # reverse 10 to 1 number printing 
-for i in range(120,0,-1):
-    print(i, end=" ")  # 120 se 1 tak reverse print karo
+# for i in range(120,0,-1):
+#     print(i, end=" ")  # 120 se 1 tak reverse print karo
 
 # 7-- 
+while num > 0:
+    digit = num % 10
+    total += digit
+    num = num // 10
