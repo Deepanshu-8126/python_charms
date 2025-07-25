@@ -19,12 +19,14 @@
 # for i in range (10,0,-1):
 #     print(a,"x",i,"=",a*i)
 
-# reverse 10 to 1 number printing 
+# reverse 10 to 1 number printing
 # for i in range(120,0,-1):
-#     print(i, end=" ")  
+#     print(i, end=" ")
 
-# 7-- 
-while num > 0:
-    digit = num % 10
-    total += digit
-    num = num // 10
+# print("Hello World")
+
+#print table of any number
+num=int(input("Enter any number "))
+print("Mutiplication of : ",num,"is")
+for i in range(1,11):
+    print(num,"x",i,"=",num*i)
