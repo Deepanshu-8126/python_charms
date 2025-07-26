@@ -29,5 +29,28 @@
 #     print("Number second is greater ")
 
 #5-- input username and password check if both  are correct
-username = input("Enter your username")
-password = input("Enter your password ")
+# username = input("Enter your username")
+# password = input("Enter your password ")
+
+# #6
+# marks=int(input("Enter your marks :"))
+# if marks>=90:
+#     print("Grade A")
+# elif marks>=75:
+#     print("Grade B")
+# elif marks>=50:
+#     print("Grade C")
+# else:
+#     print("FAIL")
+
+#7-leap year check
+#leap year divisible only 400 or divibsle by 4 not 100
+# year=int(input("Enter a year :"))
+# if year%400==0:
+#     print("Leap year")
+# elif year%100==0:
+#     print("not a leap year")
+# elif year%4==0:
+#     print("Leap Year")
+# else:
+#     print("Not a Leap Year")
