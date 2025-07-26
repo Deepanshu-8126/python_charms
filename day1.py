@@ -71,3 +71,6 @@
 # avg=total/3
 # print("average of three subject  marks is : ", avg)
 
+#user input 
+name= int(input("Enter your name"))
+print(f"Hello,{name}")
