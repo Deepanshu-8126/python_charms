@@ -54,3 +54,8 @@
 #     print("Leap Year")
 # else:
 #     print("Not a Leap Year")
+
+# check a character is vowel or consonant
+num=int(input("Enter a number :"))
+if num%3 || num%5:
+    print("Yes it is divisble ")
