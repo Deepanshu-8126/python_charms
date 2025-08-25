@@ -2,11 +2,11 @@
 #     print(i,end=" ")
     #print hello 5 times
 # for i in range(5):
-#     print("Hello")
+#     print("Hello", end=" Deepanshu ")
 
 #print even number from 1 to 20 
 
-# for i in range(1,21):
+# for i in range(20):
 #     if i%2==0:
 #         print(i)
 #  Q4. Print square of numbers from 1 to 5
@@ -17,7 +17,7 @@
 # for i in range(1,11):
 #     print(i)
 #
-# #2-- print 2 to 20
+#2-- print 2 to 20
 # for i in range(2,21,2):
 #     print(i)
 
